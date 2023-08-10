@@ -1,7 +1,7 @@
 # Partical-Swarm-Optimisation-Examples
 Exemplary Guidance for Problems Solvable through Particle Swarm Optimization (PSO)
 
-More eloborated explanation at
+More elaborated explanation at
 https://medium.com/@goksselgunduz/particle-swarm-optimization-d480b076bd89
 
 Particle Swarm Optimization is based on social information sharing between individuals. 
